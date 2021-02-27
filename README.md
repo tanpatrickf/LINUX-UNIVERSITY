@@ -28,9 +28,9 @@ I found this amazing [shell version management][shenv] that lets you easily swit
 Refer on Project Specifications.pdf for further information.
 
 
-Use the following credetials:
-Username: admin
-Password: Unixadmin1!
+Use the following credentials:
+  Username: admin
+  Password: Unixadmin1!
 
 ## SCREENSHOTS
 
