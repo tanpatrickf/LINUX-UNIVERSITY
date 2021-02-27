@@ -29,8 +29,8 @@ Refer on Project Specifications.pdf for further information.
 
 
 Use the following credentials:
-  Username: admin
-  Password: Unixadmin1!
+- Username: admin
+- Password: Unixadmin1!
 
 ## SCREENSHOTS
 
